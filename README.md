@@ -1,0 +1,2 @@
+# loanki
+loanki kucai
